@@ -1,2 +1,2 @@
-# SM_AWS_SolutionsArchitect
-Stephane Mareek Udemy Solutions Architect Associate hands on activities
+# Solutions Architect
+Projects in this repository focus on architectural principles and design strategies typical of cloud solutions architects.
